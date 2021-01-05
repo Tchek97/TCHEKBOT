@@ -1,1 +1,1 @@
-# tchek-bot
+# TCHEKBOT
